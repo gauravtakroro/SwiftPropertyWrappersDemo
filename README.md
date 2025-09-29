@@ -2,9 +2,6 @@
 🚀 11 Essential Property Wrappers in SwiftUI
 Property wrappers in SwiftUI are more than just syntax sugar—they provide a powerful, declarative way to manage state, data flow, and user interactions.
 
-
-![Uploading blog_11 Essential Property Wrappers in SwiftUI (1).png…]()
-
 This repository demonstrates 11 must-know property wrappers with practical examples:
 
 @State
